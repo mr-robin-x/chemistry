@@ -45,5 +45,23 @@ img{
 }
 .ele img{
   width:500px;
-  height:700pz
+  height:700px;
+}
+.button{
+  border:2px solid rgb(211, 107, 22);
+  /* background-color: rgb(202, 123, 226); */
+  font-size: 18px;
+  border-radius: 5px;
+  box-shadow: ;
+  text-align: center;
+  width:70px;
+  margin-top:0;
+  padding-top:0;
+}
+.download{
+  background-color: rgb(94, 202, 148);
+  width:500px;
+  border: 5px solid blue;
+  padding: 3px;
+  text-align: center;
 }
